@@ -1,0 +1,14 @@
+Unity/Library/
+Unity/Temp/
+DotNet/App/obj/
+DotNet/Core/obj/
+DotNet/Hotfix/obj/
+DotNet/Loader/obj/
+DotNet/Model/obj/
+DotNet/ThirdParty/obj/
+Share/Analyzer/obj/
+Share/Share.SourceGenerator/obj/
+Share/Tool/obj/
+Unity/Logs/
+Bin/
+.idea/

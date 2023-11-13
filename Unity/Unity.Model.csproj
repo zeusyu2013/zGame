@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>9.0</LangVersion>
+    <_TargetFrameworkDirectories>non_empty_path_generated_by_unity.rider.package</_TargetFrameworkDirectories>
+    <_FullFrameworkReferenceAssemblyPaths>non_empty_path_generated_by_unity.rider.package</_FullFrameworkReferenceAssemblyPaths>
+    <DisableHandlePackageFileConflicts>true</DisableHandlePackageFileConflicts>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{9498bfb4-d9f5-c441-13e3-3f26f7700e29}</ProjectGuid>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Unity.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\Bin\Debug\Unity.Rider.Editor\</OutputPath>
+    <DefineConstants>UNITY_EDITOR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169,0649</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <ItemGroup>
+     <Folder Include="Assets\Scripts\Model\Generate\ClientServer\Message" />
+     <Folder Include="Assets\Scripts\Model\Server\Benchmark" />
+     <Folder Include="Assets\Scripts\Model\Share" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\Recast" />
+     <Folder Include="Assets\Scripts\Model\Server\Module" />
+     <Folder Include="Assets\Scripts\Model\Server" />
+     <Folder Include="Assets\Scripts\Model\Client\Module\Message" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\NetClient\Session" />
+     <Folder Include="Assets\Scripts\Model\Share\Plugins\Example" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic" />
+     <Folder Include="Assets\Scripts\Model\Generate\ClientServer\Config" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Robot" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\AOI" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\Main" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Robot\Case" />
+     <Folder Include="Assets\Scripts\Model\Client\Plugins\Example" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\ActorLocation" />
+     <Folder Include="Assets\Scripts\Model\Server\Plugins\Example" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Map\Recast" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Robot\Console" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\RobotCase" />
+     <Folder Include="Assets\Scripts\Model\Generate" />
+     <Folder Include="Assets\Scripts\Model" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Map" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Gate" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\Move" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\Main\Unit" />
+     <Folder Include="Assets\Scripts\Model\Generate\ClientServer" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\AI" />
+     <Folder Include="Assets\Scripts\Model\Client" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\ObjectWait" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\Unit" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\Message" />
+     <Folder Include="Assets\Scripts\Model\Share\Plugins" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\Message" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Watcher" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\AI" />
+     <Folder Include="Assets\Scripts\Model\Generate\ClientServer\ConfigPartial" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\NetClient\Ping" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic" />
+     <Folder Include="Assets\Scripts\Model\Client\Plugins" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\NetInner" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\NetClient\Router" />
+     <Folder Include="Assets\Scripts\Model\Server\Plugins" />
+     <Folder Include="Assets\Scripts\Model\Share\Module" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\Console" />
+     <Folder Include="Assets\Scripts\Model\Share\Logic" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\Http" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\Main\Move" />
+     <Folder Include="Assets\Scripts\Model\Server\Logic\Benchmark" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\NetClient" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\Numeric" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\Router" />
+     <Folder Include="Assets\Scripts\Model\Share\Module\Scene" />
+     <Folder Include="Assets\Scripts\Model\Server\Demo" />
+     <Folder Include="Assets\Scripts\Model\Client\Demo" />
+     <Folder Include="Assets\Scripts\Model\Share\Demo" />
+     <Folder Include="Assets\Scripts\Model\Server\Module\DB" />
+     <Folder Include="Assets\Scripts\Model\Client\Logic\Main\Scene" />
+     <Folder Include="Assets\Scripts\Model\Client\Module" />
+     <None Include="Assets\Scripts\Model\Unity.Model.asmdef" />
+     <Reference Include="UnityEngine">
+     <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.30f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.CoreModule">
+     <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.30f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEditor">
+     <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.30f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+     </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
