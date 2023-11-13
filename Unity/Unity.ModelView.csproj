@@ -43,19 +43,20 @@
   <ItemGroup>
      <Folder Include="Assets\Scripts\ModelView\Client\Module\Resource" />
      <Folder Include="Assets\Scripts\ModelView\Client\Plugins" />
-     <Folder Include="Assets\Scripts\ModelView\Client\Demo\UI" />
-     <Folder Include="Assets\Scripts\ModelView\Client\Demo\UI\UIHelp" />
-     <Folder Include="Assets\Scripts\ModelView\Client\Demo\UI\UILoading" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic\UI" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic\UI\UIHelp" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic\UI\UILoading" />
      <Folder Include="Assets\Scripts\ModelView\Client\Plugins\Example" />
-     <Folder Include="Assets\Scripts\ModelView\Client\Demo\UI\UILogin" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic\UI\UILogin" />
      <Folder Include="Assets\Scripts\ModelView\Client" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic" />
      <None Include="Assets\Scripts\ModelView\Unity.ModelView.asmdef" />
      <Folder Include="Assets\Scripts\ModelView\Client\Module\UI" />
      <Folder Include="Assets\Scripts\ModelView\Client\Demo" />
      <Folder Include="Assets\Scripts\ModelView" />
-     <Folder Include="Assets\Scripts\ModelView\Client\Demo\Opera" />
-     <Folder Include="Assets\Scripts\ModelView\Client\Demo\Unit" />
-     <Folder Include="Assets\Scripts\ModelView\Client\Demo\UI\UILobby" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic\Opera" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic\Unit" />
+     <Folder Include="Assets\Scripts\ModelView\Client\Logic\UI\UILobby" />
      <Folder Include="Assets\Scripts\ModelView\Client\Module" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.30f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

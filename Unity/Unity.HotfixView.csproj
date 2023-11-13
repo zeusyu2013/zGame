@@ -42,7 +42,6 @@
   </PropertyGroup>
   <ItemGroup>
      <Folder Include="Assets\Scripts\HotfixView\Client\Logic\UI\UIHelp" />
-     <Folder Include="Assets\Scripts\HotfixView\Client\Demo" />
      <Folder Include="Assets\Scripts\HotfixView\Client\Module\UI" />
      <Folder Include="Assets\Scripts\HotfixView\Client\Logic\UI\UILogin" />
      <Folder Include="Assets\Scripts\HotfixView\Client\Module\TrueSync" />

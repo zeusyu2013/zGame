@@ -53,7 +53,6 @@
      <Folder Include="Assets\Scripts\Hotfix\Client\Logic\AI" />
      <Folder Include="Assets\Scripts\Hotfix\Share\Module\Message" />
      <Folder Include="Assets\Scripts\Hotfix\Server\Plugins" />
-     <Folder Include="Assets\Scripts\Hotfix\Server\Demo" />
      <Folder Include="Assets\Scripts\Hotfix\Client\Module\Message" />
      <Folder Include="Assets\Scripts\Hotfix\Server\Module\ActorLocation" />
      <Folder Include="Assets\Scripts\Hotfix\Client\Module" />
@@ -85,7 +84,6 @@
      <Folder Include="Assets\Scripts\Hotfix\Server\Module\NetInner" />
      <Folder Include="Assets\Scripts\Hotfix\Server\Benchmark" />
      <Folder Include="Assets\Scripts\Hotfix\Share\Plugins" />
-     <Folder Include="Assets\Scripts\Hotfix\Client\Demo" />
      <Folder Include="Assets\Scripts\Hotfix\Server\Logic\Watcher" />
      <Folder Include="Assets\Scripts\Hotfix\Server\Logic\Robot" />
      <Folder Include="Assets\Scripts\Hotfix\Client\Logic\Main\Scene" />
@@ -101,7 +99,6 @@
      <Folder Include="Assets\Scripts\Hotfix\Share\Module\Actor" />
      <Folder Include="Assets\Scripts\Hotfix\Share\Module\Console" />
      <Folder Include="Assets\Scripts\Hotfix\Server\Module\DB" />
-     <Folder Include="Assets\Scripts\Hotfix\Share\Demo" />
      <Folder Include="Assets\Scripts\Hotfix\Client\Plugins" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.30f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

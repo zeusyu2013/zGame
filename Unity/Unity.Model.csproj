@@ -95,9 +95,6 @@
      <Folder Include="Assets\Scripts\Model\Share\Module\Numeric" />
      <Folder Include="Assets\Scripts\Model\Server\Module\Router" />
      <Folder Include="Assets\Scripts\Model\Share\Module\Scene" />
-     <Folder Include="Assets\Scripts\Model\Server\Demo" />
-     <Folder Include="Assets\Scripts\Model\Client\Demo" />
-     <Folder Include="Assets\Scripts\Model\Share\Demo" />
      <Folder Include="Assets\Scripts\Model\Server\Module\DB" />
      <Folder Include="Assets\Scripts\Model\Client\Logic\Main\Scene" />
      <Folder Include="Assets\Scripts\Model\Client\Module" />
